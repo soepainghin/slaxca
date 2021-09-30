@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/soepainghin.github.io/slaxca/static/css/main.d803d72f.chunk.css",
+    "main.js": "/soepainghin.github.io/slaxca/static/js/main.31520dfb.chunk.js",
+    "main.js.map": "/soepainghin.github.io/slaxca/static/js/main.31520dfb.chunk.js.map",
+    "runtime-main.js": "/soepainghin.github.io/slaxca/static/js/runtime-main.d033a69e.js",
+    "runtime-main.js.map": "/soepainghin.github.io/slaxca/static/js/runtime-main.d033a69e.js.map",
+    "static/js/2.ddde0893.chunk.js": "/soepainghin.github.io/slaxca/static/js/2.ddde0893.chunk.js",
+    "static/js/2.ddde0893.chunk.js.map": "/soepainghin.github.io/slaxca/static/js/2.ddde0893.chunk.js.map",
+    "index.html": "/soepainghin.github.io/slaxca/index.html",
+    "static/css/main.d803d72f.chunk.css.map": "/soepainghin.github.io/slaxca/static/css/main.d803d72f.chunk.css.map",
+    "static/js/2.ddde0893.chunk.js.LICENSE.txt": "/soepainghin.github.io/slaxca/static/js/2.ddde0893.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d033a69e.js",
+    "static/js/2.ddde0893.chunk.js",
+    "static/css/main.d803d72f.chunk.css",
+    "static/js/main.31520dfb.chunk.js"
+  ]
+}
